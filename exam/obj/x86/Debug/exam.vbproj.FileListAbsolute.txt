@@ -1,0 +1,183 @@
+C:\Users\hp\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.Form1.resources
+C:\Users\hp\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.Form2.resources
+C:\Users\hp\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.Resources.resources
+C:\Users\hp\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.Form1.resources
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.Form2.resources
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.Resources.resources
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\bin\Debug\exam.exe
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\bin\Debug\exam.pdb
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\bin\Debug\exam.xml
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.exe
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.xml
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.pdb
+C:\Users\hp\OneDrive\Bureau\exam\exam\exam\obj\x86\Debug\exam.Form3.resources
+C:\Users\hp\OneDrive\Bureau\MESTPVB.NET\exam\exam\exam\obj\x86\Debug\exam.exe
+C:\Users\hp\OneDrive\Bureau\MESTPVB.NET\exam\exam\exam\obj\x86\Debug\exam.xml
+C:\Users\hp\OneDrive\Bureau\MESTPVB.NET\exam\exam\exam\obj\x86\Debug\exam.pdb
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\bin\Debug\gestion du projet.exe
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\bin\Debug\gestion du projet.pdb
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\bin\Debug\gestion du projet.xml
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\Form1.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\Form2.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\Resources.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\gestion du projet.exe
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\gestion du projet.xml
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\gestion du projet.pdb
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\membre.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\membre_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\equipe_membre.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\equipe_membre_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\facture.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\facture_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\tache.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\tache_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\ressource.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\ressource_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\affectation.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\affectation_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\travaille_sur_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\travaille_sur.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\livrable.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\livrable_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\commentaire.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\commentaire_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\compte.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\compte_form.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\dash.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\Menus.resources
+C:\Users\hp\OneDrive\Bureau\projetVBN\exam\obj\x86\Debug\menuser.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\bin\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\bin\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\bin\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\affectation_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\affectation.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\commentaire_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\commentaire.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\compte_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\compte.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\dash.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\equipe_membre.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\equipe_membre_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\facture.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\facture_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\Form1.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\Form2.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\livrable_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\livrable.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\membre_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\membre.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\Menus.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\menuser.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\Resources.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\ressource.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\ressource_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\tache.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\tache_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\travaille_sur.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\travaille_sur_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\affectation_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\affectation.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\commentaire_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\commentaire.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\compte_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\compte.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\dash.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\equipe_membre.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\equipe_membre_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\facture.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\facture_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\Form1.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\Form2.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\livrable_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\livrable.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\membre_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\membre.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\Menus.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\menuser.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\Resources.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\ressource.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\ressource_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\tache.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\tache_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\travaille_sur.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\travaille_sur_form.resources
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\bin\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\bin\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\projetVBN - Copy\exam\bin\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\bin\Debug\gestion du projet.exe
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\bin\Debug\gestion du projet.pdb
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\bin\Debug\gestion du projet.xml
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\affectation_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\affectation.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\commentaire_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\commentaire.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\compte_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\compte.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\dash.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\equipe_membre.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\equipe_membre_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\facture.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\facture_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\Form1.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\Form2.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\livrable_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\livrable.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\membre_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\membre.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\Menus.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\menuser.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\Resources.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\ressource.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\ressource_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\tache.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\tache_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\travaille_sur.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\travaille_sur_form.resources
+C:\Users\study\Desktop\Projets\VB\SGP - VB\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.exe
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.xml
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\gestion du projet.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\bin\Debug\gestion du projet.exe
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\bin\Debug\gestion du projet.pdb
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\bin\Debug\gestion du projet.xml
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\affectation_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\affectation.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\commentaire_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\commentaire.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\compte_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\compte.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\dash.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\equipe_membre.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\equipe_membre_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\facture.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\facture_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\Form1.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\Form2.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\livrable_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\livrable.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\membre_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\membre.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\Menus.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\menuser.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\Resources.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\ressource.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\ressource_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\tache.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\tache_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\travaille_sur.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\travaille_sur_form.resources
+C:\Users\ASUS\Desktop\SUP'ISI\Mes projets\SGP - VB\SGP - VB\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
